@@ -77,3 +77,6 @@ eval `ssh-agent -s`
 ssh-add ~/.ssh/[key_file_name]
 ```
 Replace `[key_file_name]` with the name of your key file.
+
+For more information about keys and ssh'ing, check out my other tutorial and helpful scripts for this:
+https://github.com/morganrivers/how_to_ssh_key/
